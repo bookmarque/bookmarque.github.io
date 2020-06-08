@@ -1,5 +1,5 @@
 
-### Closing the Reading Gap - Alex Quigley
+### Closing the Reading Gap by Alex Quigley
 
 Quigley opens this book with a celebration of the magical act of reading. Due to the purpose of this book, he has a rather self-selecting, highly-literate readership who are interested in how to support our students develop their literacy. Likely, many of his readership will relate to Quigley’s depiction of the reading-privileges cast on to some and deprived of others. These include growing up in houses with heavy bookshelves; having exciting books of your own; having a parent who is confident enough with their reading that they can read you stories while you watch the mysterious inky shapes before you with growing interest. 
 

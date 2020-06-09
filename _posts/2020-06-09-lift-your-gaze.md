@@ -1,9 +1,6 @@
-## Villanelle Poetry Challenge
+### Lift your gaze
 
-During lockdown, my friend and I have been posing various poetry challenges to keep ourselves writing. Here we set the task of writing a villanelle. Some inspiring villanelles include Auden's 'If I could tell you' and Dylan Thomas's 'Do not go gentle into that good night'.
-The villanelle form demands a tight, limited rhyme scheme and also the use of line repetition. I took some inspiration from the ennui of lockdown...
-
-## Lift your gaze
+<p>&nbsp;</p>
 
 Breath deep and count the hours of the days;
 
@@ -52,3 +49,11 @@ Like daffodils, you need the sun to grow.
 Breath deep and count the hours of the days,
 
 The time has come for you to lift your gaze.
+
+<p>&nbsp;</p>
+
+#### Villanelle Poetry Challenge
+
+During lockdown, my friend and I have been posing various poetry challenges to keep ourselves writing. Here we set the task of writing a villanelle. Some inspiring villanelles include Auden's 'If I could tell you' and Dylan Thomas's 'Do not go gentle into that good night'.
+The villanelle form demands a tight, limited rhyme scheme and also the use of line repetition. I took some inspiration from the ennui of lockdown...
+

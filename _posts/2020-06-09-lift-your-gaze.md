@@ -1,4 +1,4 @@
-## Poetry Challenge
+## Villanelle Poetry Challenge
 
 During lockdown, my friend and I have been posing various poetry challenges to keep ourselves writing. Here we set the task of writing a villanelle. Some inspiring villanelles include Auden's 'If I could tell you' and Dylan Thomas's 'Do not go gentle into that good night'.
 The villanelle form demands a tight, limited rhyme scheme and also the use of line repetition. I took some inspiration from the ennui of lockdown...

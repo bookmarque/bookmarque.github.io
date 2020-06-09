@@ -1,7 +1,5 @@
 ### Lift your gaze
 
-<p>&nbsp;</p>
-
 Breath deep and count the hours of the days;
 
 Darks nights are far behind us now and so
